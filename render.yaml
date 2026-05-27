@@ -1,5 +1,5 @@
 services:
-  - type: web
+  - type: static
     name: subway-surfers-game
     env: static
     staticPublishPath: .
